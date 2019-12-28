@@ -2,9 +2,9 @@
 <h1>Disaster Response Pipeline Project</h1>
 
 <p><img src="screenshot/Home.png" alt="Home"></p>
-<p><img src="screenshot/Prediction page.png"></p>
+<p><img src="screenshot/Prediction page.png", alt="Prediction page"></p>
 
-<h3>Installation:</h3, alt="Prediction page">
+<h3>Installation:</h3>
 <p>This project requires Python 3.x and the following Python libraries:</p>
 <ul>
     <li>pandas</li>
